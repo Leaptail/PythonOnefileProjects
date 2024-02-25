@@ -1,1 +1,3 @@
 This is made to learn changing of cases and usage of if else statements.
+
+Also makes use of .lower() and printing informaiton in print(f.) statements.
